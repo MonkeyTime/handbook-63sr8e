@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MonkeyTime.github.io/handbook-63sr8e/sitemap.xml
